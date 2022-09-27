@@ -8,9 +8,9 @@ keywords:
 - olap
 - database
 maintainers:
-- email: 411934049@qq.com
-  name: liwenhe
+- email: 363427222@qq.com
+  name: zsmszsms
 name: clickhouse
 sources:
-- https://github.com/liwenhe1993/charts
+- https://github.com/zsmszsms/charts
 version: 1.0.1
