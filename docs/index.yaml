@@ -3,11 +3,11 @@ entries:
   clickhouse:
   - apiVersion: v1
     appVersion: 21.3.20.1
-    created: "2022-09-27T10:53:58.170843058+08:00"
+    created: "2022-09-27T13:20:33.6154538+08:00"
     description: ClickHouse is an open source column-oriented database management
       system capable of real time generation of analytical data reports using SQL
       queries
-    digest: 927fbbf5a71efb8a646452f85b80331a5d14cd9b92326280f7bf2fb3e82f6e9a
+    digest: 277daef88f99131f98b023fe038b6bc2f103dc69a4858d0a9b3a12b049379312
     home: https://clickhouse.yandex/
     icon: https://clickhouse.yandex/images/logo.png
     keywords:
@@ -15,12 +15,12 @@ entries:
     - olap
     - database
     maintainers:
-    - email: 411934049@qq.com
-      name: liwenhe
+    - email: 363427222@qq.com
+      name: zsmszsms
     name: clickhouse
     sources:
-    - https://github.com/liwenhe1993/charts
+    - https://github.com/zsmszsms/charts
     urls:
-    - https://zsmszsms.github.io/charts/clickhouse-1.0.1.tgz
-    version: 1.0.1
-generated: "2022-09-27T10:53:58.168876923+08:00"
+    - https://zsmszsms.github.io/charts/clickhouse-1.0.2.tgz
+    version: 1.0.2
+generated: "2022-09-27T13:20:33.613854298+08:00"
