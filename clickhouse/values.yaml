@@ -57,7 +57,7 @@ clickhouse:
   replicas: "3"
   ## Clickhouse image configuration.
   image: "yandex/clickhouse-server"
-  imageVersion: "19.14"
+  imageVersion: "21.3.20.1"
   imagePullPolicy: "IfNotPresent"
   #imagePullSecrets: 
   ## Periodic probe of container liveness. Container will be restarted if the probe fails. Cannot be updated. 
